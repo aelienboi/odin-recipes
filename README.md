@@ -1,5 +1,2 @@
 # odin-recipes
-IM TRYING TO FIGURE OUT HOW THIS WORKS 
-DO I WRITE IN HERE ON THE COMMAND LINE OR IN VSCODE 
-IM SO CONFUZZLED
-THOUGHT I HAD IT NOW I AM CONFUZED 
+i am going to practice building a website using what i have learned form the odin project so far.
