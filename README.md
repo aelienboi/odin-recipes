@@ -1,2 +1,3 @@
 # odin-recipes
-i am going to practice building a website using what i have learned form the odin project so far.
+I am going to use what i have learned throughout the odin project so far to build a simple website. 
+
